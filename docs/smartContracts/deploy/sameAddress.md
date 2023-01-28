@@ -83,7 +83,7 @@ Remember this CREATE2 Factory address and the salt you used for the contract byt
 :::warning WARNING
 If you skip this step 3, you will see the following error on the Shardeum explorer:
 
-      create collison
+      create collision
 
 since there is a contract at that address that hasn't been destroyed yet.
 :::
