@@ -9,7 +9,7 @@ Shardeum is an EVM-based sharded layer 1 blockchain that uses dynamic state shar
 
 ## Which languages are used for smart contracts on Shardeum?
 
-EVM-based languages is used to compile smart contracts; this includes Solidity and Vyper.
+EVM-based languages are used to compile smart contracts; this includes Solidity and Vyper.
 
 ## How can I contribute to Liberty as a developer?
 
@@ -31,7 +31,7 @@ There will be an ecosystem fund setup to reward devs for creating innovative app
 
 ## I found some bugs on Shardeum Explorer. How do we report it?
 
-Please use this form to report bugs when you face any issues on Liberty so our developers can look into it for improvement opportunities : https://forms.gle/LzPB7aoHQ6sreABeA
+Please use this form to report bugs when you face any issues on Liberty so our developers can look into it for improvement opportunities: https://forms.gle/LzPB7aoHQ6sreABeA
 
 ## Gas fees are high while transacting on Liberty. Why is that?
 
